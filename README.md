@@ -1,0 +1,1 @@
+This is the content for the talk, _Cloud Foundry Java Buildpack_ for the internal data group in December, 2013.  The contents of this repository include the slides, speaker's notes, and code for the talk.
